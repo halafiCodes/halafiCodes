@@ -2,7 +2,7 @@
 
 **Data & ML Engineer** — I build end-to-end data products: ingestion pipelines, warehouses, RAG systems, and the models that sit on top of them. Most of my recent work is in financial risk and analytics.
 
-📍 Ethiopia · 💼 [LinkedIn](https://www.linkedin.com/in/weldesilassie-redae)
+India-Chennai · 💼 [LinkedIn](https://www.linkedin.com/in/weldesilassie-redae)
 
 ---
 
